@@ -6,6 +6,7 @@ opts = ['rock', 'paper', 'sizers']
 while(True):
     # user's choice
     usrch = input('> ')
+    # quit
     if usrch == 'q':
         break
     # computer's choice
